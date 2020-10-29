@@ -1,0 +1,23 @@
+logs/
+
+# Maven
+build/
+dist/
+nbproject/
+target/
+dependency-reduced-pom.xml
+
+# Netbeans
+nb-configuration.xml
+nb-actions.xml
+
+# Eclipse
+.settings/
+#.project/
+.classpath
+.externalToolBuilders/
+maven-eclipse.xml
+
+# IDEA
+.idea/
+*.iml
